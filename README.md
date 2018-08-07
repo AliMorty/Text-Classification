@@ -260,7 +260,7 @@ Let's see the result of each of those different formulas.
 ### First Formula   
 The formula is:
 
-![formula-1](f1.bmp)
+![formula-1](./f1.bmp)
 
 
 
