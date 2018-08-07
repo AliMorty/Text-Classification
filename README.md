@@ -2,7 +2,7 @@
 # Text Classification
 In this project, we used 3 different metrics (Information Gain, Mutual Information, Chi Squared) to find important words and then we used them for the classification task. We compared the result at the end. <br>
 
-To read jupyter notebook complete code click on [Codes](Codes/README.md)
+To read jupyter notebook complete code click on [Codes](./Codes/README.md)
 
 
 Each document can be represented by the set of its words. <br>
