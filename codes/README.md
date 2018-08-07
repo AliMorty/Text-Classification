@@ -411,7 +411,7 @@ Let's see the result of each of those different formulas.
 ### First Formula   
 The formula is:
 
-![formula-1](../README/f1.bmp)
+![formula-1](../Readme/f1.bmp)
 
 The result for this formula
 
@@ -589,7 +589,7 @@ In the second model, the above problem is solved because we multiplied the frequ
 
 The Second formula is:
 
-![formula-2](../README/f2.bmp)
+![formula-2](../Readme/f2.bmp)
 
 
 
