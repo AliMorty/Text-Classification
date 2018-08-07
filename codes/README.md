@@ -411,7 +411,7 @@ Let's see the result of each of those different formulas.
 ### First Formula   
 The formula is:
 
-$$MI(w, c_i) = \log{\frac{p(w, c_i)}{p(w)*p(c_i)}}$$
+![formula-1](../README/f1.bmp)
 
 The result for this formula
 
@@ -589,7 +589,7 @@ In the second model, the above problem is solved because we multiplied the frequ
 
 The Second formula is:
 
-$$MI(w, c_i) = \sum_{i,j \subset \{ 0 , 1 \}} {p(w=i, c_i=j)} * \log{\frac{p(w=i, c_i=j)}{p(w=i)*p(c_i=j)}} $$
+![formula-2](../README/f2.bmp)
 
 
 
